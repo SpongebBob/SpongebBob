@@ -4,4 +4,4 @@
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/baomengjiao/competition)
 
-[关注我的公众号：包包算法笔记] (https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNDY1NTU5Mg==#wechat_redirect)
+[关注我的公众号：包包算法笔记] (https://mp.weixin.qq.com/mp/profile_ext?action=home&biz=MzIwNDY1NTU5Mg==#wechat_redirect)
